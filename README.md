@@ -1,5 +1,6 @@
 ## WELCOME TO MY GITHUB PROFILE :smiley:
-[Codewars](https://www.codewars.com/users/manuelbosi/badges/large)
+
+[Linkedin](https://www.linkedin.com/in/manuelbosi/) | [Codewars](https://www.codewars.com/users/manuelbosi/badges/large)
 
 **SKILLS**
 - CSS
