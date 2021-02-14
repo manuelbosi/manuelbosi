@@ -3,9 +3,11 @@
 [Linkedin](https://www.linkedin.com/in/manuelbosi/) | [Codewars](https://www.codewars.com/users/manuelbosi/badges/large)
 
 **SKILLS**
-- CSS
+- Laravel
+- PHP
+- VueJs
 - Jquery
 - Javascript
 - Bootstrap
-- PHP
-- Laravel
+- CSS
+
