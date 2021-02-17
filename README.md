@@ -1,6 +1,8 @@
 ### WELCOME TO MY GITHUB PROFILE :relaxed:
+[Linkedin](https://loghi-famosi.com/wp-content/uploads/2020/04/Linkedin-Logo.png) |
 
-[Linkedin](https://www.linkedin.com/in/manuelbosi/) | [Codewars](https://www.codewars.com/users/manuelbosi/badges/large)
+Codewars <br />
+![](https://www.codewars.com/users/manuelbosi/badges/small)
 
 **SKILLS**
 - Laravel
