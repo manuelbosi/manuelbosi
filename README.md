@@ -1,7 +1,14 @@
 **ME**
 ```php
 
- $person = new Person("Manuel", "Bosi", "23");
+$person = new Person("Manuel", "Bosi", "23");
+$person -> skills[] = "Laravel";
+$person -> skills[] = "PHP";
+$person -> skills[] = "VueJs";
+$person -> skills[] = "Jquery";
+$person -> skills[] = "Javascript";
+$person -> skills[] = "Bootstrap";
+$person -> skills[] = "CSS";
 
 ```
 
