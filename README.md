@@ -5,7 +5,7 @@
 
 ```
 
-[Linkedin](https://loghi-famosi.com/wp-content/uploads/2020/04/Linkedin-Logo.png)
+[Linkedin](https://www.linkedin.com/in/manuelbosi/)
 
 [![](https://www.codewars.com/users/manuelbosi/badges/small)](https://www.codewars.com/users/manuelbosi/completed_solutions)
 
