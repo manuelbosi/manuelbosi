@@ -9,7 +9,7 @@ $person -> skills[] = "jQuery";
 $person -> skills[] = "Javascript";
 $person -> skills[] = "Bootstrap";
 $person -> skills[] = "CSS";
-
+$person -> skills[] = "SASS";
 ```
 
 [![](https://www.codewars.com/users/manuelbosi/badges/large)](https://www.codewars.com/users/manuelbosi/completed_solutions)
