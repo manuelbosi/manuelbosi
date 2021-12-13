@@ -14,5 +14,5 @@ $person -> skills[] = "SASS";
 
 [![](https://www.codewars.com/users/manuelbosi/badges/large)](https://www.codewars.com/users/manuelbosi/completed_solutions)
 
-[![x](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbosi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![x](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbosi&layout=compact&theme=dark&langs_count=10&hide=kotlin,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
