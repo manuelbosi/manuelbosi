@@ -2,14 +2,15 @@
 ```php
 
 $person = new Person("Manuel", "Bosi", "24");
-$person -> skills[] = "Laravel";
-$person -> skills[] = "PHP";
-$person -> skills[] = "VueJs";
-$person -> skills[] = "jQuery";
 $person -> skills[] = "Javascript";
+$person -> skills[] = "VueJs";
+$person -> skills[] = "React";
+$person -> skills[] = "jQuery";
 $person -> skills[] = "Bootstrap";
 $person -> skills[] = "CSS";
 $person -> skills[] = "SASS";
+$person -> skills[] = "Laravel";
+$person -> skills[] = "PHP";
 ```
 
 [![](https://www.codewars.com/users/manuelbosi/badges/large)](https://www.codewars.com/users/manuelbosi/completed_solutions)
