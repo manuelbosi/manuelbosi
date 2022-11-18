@@ -1,7 +1,7 @@
 ## ABOUT
 ```php
 
-$person = new Person("Manuel", "Bosi", "24");
+$person = new Person("Manuel", "Bosi", "25");
 $person -> skills[] = "Javascript";
 $person -> skills[] = "VueJs";
 $person -> skills[] = "React";
