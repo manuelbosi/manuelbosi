@@ -10,7 +10,7 @@ type Person = {
 const me: Person = {
   firstName: "Manuel",
   lastName: "Bosi",
-  age: 26
+  age: 27
 }
 ```
 
